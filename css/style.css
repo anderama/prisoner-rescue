@@ -90,6 +90,20 @@ background-image:url(../imgs/apache.png);
 	background-image: url(../imgs/disparo.png);
 }
 
+#explosao1 {
+	width:15px;
+	height:87px;
+	position:absolute;
+
+}
+
+#explosao2 {
+	width:15px;
+	height:87px;
+	position:absolute;
+	
+}
+
 .anima1 {
 	background-image:url(../imgs/helicoptero.png);
 	animation:play .5s steps(2) infinite;
