@@ -118,6 +118,14 @@ background-image:url(../imgs/apache.png);
 	top: 590px;
 }
 
+#energia {
+	width: 140px;
+	height: 38px;
+	position: absolute;
+	left: 750px;
+	top: 7px;	
+}
+
 h2 {
 	font-family:Titulo;
 	font-size:20px;
